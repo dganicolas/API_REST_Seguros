@@ -1,4 +1,3 @@
-
 # Ejercicio 1: Gestión de Seguros en una Aplicación Spring Boot con Kotlin
 
 En este ejercicio, vamos a desarrollar una aplicación básica en **Spring Boot** utilizando **Kotlin** que permita gestionar entidades de tipo **Seguro**. La aplicación deberá implementar un conjunto de operaciones CRUD a través de métodos HTTP para interactuar con la tabla asociada al modelo de datos.
@@ -28,7 +27,7 @@ data class Seguro(
 
 ```sql
 CREATE TABLE seguros (
-    id_Seguro INTEGER PRIMARY KEY,
+    id_seguro INTEGER PRIMARY KEY,
     nif VARCHAR(10) NOT NULL,
     nombre VARCHAR(100) NOT NULL,
     ape1 VARCHAR(100) NOT NULL,
