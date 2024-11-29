@@ -5,8 +5,8 @@ En este ejercicio, desarrollarás una API REST completa en **Spring Boot** para 
 ---
 
 ## **Enunciado del Ejercicio**
-
-La aplicación debe cumplir los siguientes objetivos:
+- TENGO QUE TERMINAR ESTE EJERCICIO QUE ES ENTREGABLE
+- La aplicación debe cumplir los siguientes objetivos:
 
 ### **1. Entidades a Gestionar**
 
